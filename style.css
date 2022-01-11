@@ -1,0 +1,68 @@
+.body{
+    background-image: url('./boxed-water-is-better-PHQVYFgTerA-unsplash.jpg');
+    background-size: cover;
+}
+.box{
+    
+    margin-left: auto;
+    margin-right: auto;
+    height: 40rem;
+    background: white;
+    border-radius: 10px;
+}
+.box h2{
+    color: #777;
+    padding-top: 3rem;
+    font-size: 52px;
+    font-family: inherit;
+}
+.field{
+    width: 83%;
+    margin-top: 3rem;
+    height: 3rem;
+    border-radius: 34px;
+    padding-left: 3rem;
+    font-size: 19px;
+    border: none;
+    background-color: #7773;
+
+}
+#btn{
+    background: #FCC302;
+    margin-top: 2rem;
+    width: 83%;
+    border-radius: 35px;
+    height: 3rem;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+span{
+    margin-top: 1rem;
+    color: black;
+}
+.signup{
+    margin-top: 8rem;
+}
+.remember{
+    width: fit-content;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.a{
+    text-decoration: none;
+    color: #777;
+}
+.user{
+    position: absolute;
+    top: 44px;
+    left: 3rem;
+    color: #777;
+}
+.pass{
+    position: absolute;
+    top: 140px;
+    left: 3rem;
+    color: #777;
+    
+}
